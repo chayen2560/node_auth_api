@@ -1,0 +1,9 @@
+{
+  "env": {
+    "MYSQL_IP": "127.0.0.1",
+    "MYSQL_UN": "root",
+    "MYSQL_PW": "password",
+    "MYSQL_SM": "node",
+    "JWT_KEY": "secret"
+  }
+}
